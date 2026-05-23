@@ -1,3 +1,15 @@
+# Prodesk Internship Missions
+
+Professional repository documentation for all internship missions completed at Prodesk IT.
+
+## Intern Profile
+
+- Name: Charan Nayak
+- Role: Frontend Developer Intern
+- Organization: Prodesk IT
+
+## Project Summary
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and extended with an enterprise-style testing setup (Jest + React Testing Library).
 
 ## Overview
