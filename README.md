@@ -7,6 +7,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 - Testing: Jest + React Testing Library + userEvent
 - Coverage gates: 70% global thresholds
 
+## Live Demo
+
+https://the-proffesional-standards.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
